@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on full-stack development.<br>I'm looking to collaborate on making front-end library .<br>I'm looking for help with developing DApp.<br>I'm currently learning block-chain technology.<br>Fun fact - I love calculus.
+I'm currently working on full-stack development.<br>I'm currently learning block-chain technology.<br>Fun fact - I love calculus.
 
 
 ## 🌐 Socials:
