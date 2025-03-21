@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on full-stack development.<br>I'm currently learning block-chain technology.<br>Fun fact - I love calculus.
+I'm currently learning block-chain technology.<br>Fun fact - I love calculus.
 
 
 ## 🌐 Socials:
